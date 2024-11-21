@@ -1,4 +1,4 @@
--- 1 2 3 4 ult ult1 ult2 ult3 ult4  3finisher 1finisher
+-- no skid
 
 local player = game.Players.LocalPlayer
 local character = player.Character or player.CharacterAdded:Wait()
